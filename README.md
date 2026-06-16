@@ -19,7 +19,7 @@ This repository contains my DevOps practice labs to create a basic online bookst
 - Nginx Deployment
 - flask-API Deployment
 - redis Deployment
-- NodePort Service
+- NodePort and load Balancer Service
 - ConfigMap Lab
 - Secrets
 - Volumes
